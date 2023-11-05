@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\zadatak12\zadatak12\bin\Debug\zadatak12.exe.config
+C:\Users\PC\source\repos\zadatak12\zadatak12\bin\Debug\zadatak12.exe
+C:\Users\PC\source\repos\zadatak12\zadatak12\bin\Debug\zadatak12.pdb
+C:\Users\PC\source\repos\zadatak12\zadatak12\obj\Debug\zadatak12.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\zadatak12\zadatak12\obj\Debug\zadatak12.Form1.resources
+C:\Users\PC\source\repos\zadatak12\zadatak12\obj\Debug\zadatak12.Properties.Resources.resources
+C:\Users\PC\source\repos\zadatak12\zadatak12\obj\Debug\zadatak12.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\zadatak12\zadatak12\obj\Debug\zadatak12.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\zadatak12\zadatak12\obj\Debug\zadatak12.exe
+C:\Users\PC\source\repos\zadatak12\zadatak12\obj\Debug\zadatak12.pdb
